@@ -1,11 +1,11 @@
 {
   "name": "FAITH-MD",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By mr Rey",
+  "description": "A WhatsApp Bot Created By FAITH-MD",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name FAITH-MD",
-    "stop": "pm2 stop FAITH-D",
+    "stop": "pm2 stop FAITH-MD",
     "restart": "pm2 restart FAITH-MD"
   },
   "dependencies": {
